@@ -40,6 +40,7 @@ I'm a Czech IT student. From time to time I develop strange ideas such as a web 
 - Favorite games: Empyrion, Valorant, Minecraft  
 ## Contact information
 - E-Mail: mysterioustaway@outlook.com
+- Discord: Taway#1754
 - Instagram: [@MysteriousTaway](https://www.instagram.com/mysterioustaway/)
 - Twitter: [@MysteriousTaway](https://twitter.com/MysteriousTaway)
 ## Computer specs:
