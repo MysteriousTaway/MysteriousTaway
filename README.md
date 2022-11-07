@@ -40,8 +40,8 @@ I'm a Czech IT student. From time to time I develop strange ideas such as a web 
 - Favorite games: Empyrion, Valorant, Minecraft  
 ## Contact information
 - E-Mail: mysterioustaway@outlook.com
-- Instagram: @MysteriousTaway
-- Twitter: @MysteriousTaway
+- Instagram: [@MysteriousTaway](https://www.instagram.com/mysterioustaway/)
+- Twitter: [@MysteriousTaway](https://twitter.com/MysteriousTaway)
 ## Computer specs:
 - CPU: AMD Ryzen 7 5700x  
 - GPU: Gigabyte 3060 EAGLE 12G  
