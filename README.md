@@ -5,13 +5,16 @@
 - Age: 19  
 - Gender: Male  
 ### Programming skills (self-rating)
-|        🖥️         | Java | C# | Powershell | Batch |
-|:-----------------:|:----:|:--:|:----------:|:-----:|
-| Novice            | ✔️    | ✔️  | ✔️  | ✔️     |
-| Advanced beginner | ✔️    | ✔️  | ✔️  | ✔️     |
-|     Competent     |   ✔️  |  ✔️ |      ❌     |   ❌   |
-|     Proficient    |   ❌  |  ❌ |      ❌     |   ❌   |
-|       Expert      |   ❌  |  ❌ |      ❌     |   ❌   |
+|              🖥️             	|    Java   	|     C#    	|     Powershell    	|  Batch 	| Go     	|
+|:--------------------------:	|:---------:	|:---------:	|:-----------------:	|:------:	|--------	|
+| Summary                    	| Competent 	| Competent 	| Advanced beginner 	| Novice 	| Novice 	|
+| Basics knowledge           	| ✔️         	| ✔️         	| ✔️                 	| ✔️      	| ✔️      	|
+| Sorting algorithms         	| ✔️         	| ✔️         	| ❌                 	| ❌      	| ❌      	|
+| Multi-threading            	| ✔️         	| ✔️         	| ❌                 	| ❌      	| ❌      	|
+| Web server (back-end)      	| ✔️         	| ❌         	| ✔️                 	| ❌      	| ✔️      	|
+| Used libraries/APIs        	| ✔️         	| ✔️         	| ✔️                 	| ❌      	| ❌      	|
+| Used with a MySQL database 	| ✔️         	| ❌         	| ✔️                 	| ❌      	| ✔️      	|
+| Standard TCP server        	| ✔️         	| ❌         	| ❌                 	| ❌      	| ❌      	|
 ### Spoken languages:
 |🇨🇿|Czech|English|
 |:--:|:----------:|:-----:|
