@@ -1,4 +1,4 @@
-# <img src="https://github.com/favicon.ico" width="32"> About me
+# <img src="image/emoji/about.svg" width="28"> About me
 I'm a typical teenager in many ways. I'm currently a student at a high school for IT, and I'm passionate about learning new programming languages – Java and C# are my current favorites. In my spare time I like to write silly programs that have no real purpose, but help me to learn more about coding. 
 I'm  a very independent person. Even though I'm only 19, I feel like I'm quite mature and I'm very capable of taking care of myself. I know what I want in life. I'm not afraid to go after what I want, and I always make sure that I get what I deserve. 
 In the future I see myself working as a software engineer. I want to be able to work on new and innovative projects that push the boundaries of what's possible. I want to be able to look back on my career and be proud of the things I've accomplished. 
@@ -10,15 +10,17 @@ In the future I see myself working as a software engineer. I want to be able to 
 - <img src="image/programming_language/java.svg" width="16"> [PaperMC plugin that i made for a classmate](https://github.com/MysteriousTaway/PotionWalker)
 - <img src="image/programming_language/java.svg" width="16"> [Number guessing algorithm AKA the second thing i ever coded in Java](https://github.com/MysteriousTaway/AI-Number-Guesser)
 > **NOTE:** Most of my interesting projects are private on Github.
+
 ### Personal information
 - Username: Taway
 - Name: Jakub Jeřábek
-- Age: 19  
-- Gender: Male  
+- Age: 19
+- Gender: Male
+
 ### Programming skills (self-rating)
-|              🖥️             	|<img src="image/programming_language/java.svg" width="32"><br>Java|<img src="image/programming_language/csharp.svg" width="36"><br>C#|<img src="image/programming_language/powershell.svg" width="48"><br>Powershell 	| <img src="image/programming_language/golang.svg" width="48"><br>Golang     	|
-|:--------------------------:	|:---------:	|:---------:	|:-----------------:	|:------:	|
-| Summary                    	| Competent 	| Competent 	| Advanced beginner     | Novice 	|
+|              🖥️             	|<img src="image/programming_language/java.svg" width="32"><br>Java|<img src="image/programming_language/csharp.svg" width="36"><br>C#|<img src="image/programming_language/powershell.svg" width="48"><br>Powershell 	| <img src="image/programming_language/golang.svg" width="84"><br>Golang     	|
+|:--------------------------:	    |:---------:	|:---------:	|:-----------------:   |:------:	|
+| Summary                    	    | Competent 	| Competent 	| Advanced beginner    | Novice 	|
 | Basics **knowledge**           	| ✔️         	| ✔️           | ✔️                   | ✔️        |
 | Sorting **algorithms**         	| ✔️         	| ✔️           | ❌                   | ❌      	|
 | Multi-**threading**            	| ✔️         	| ✔️           | ❌                   | ❌      	|
@@ -28,27 +30,40 @@ In the future I see myself working as a software engineer. I want to be able to 
 | Standard **TCP** server        	| ✔️         	| ❌           | ❌                 	| ❌        |
 | **GUI** application            	| ✔️         	| ❌           | ❌                 	| ❌        |
 | **Game** development           	| ❌            | ✔️           | ❌                 	| ❌        |
-| Worker **service**           	| ❌            | ✔️           | ❌                 	| ❌        |
+| Worker **service**              	| ❌            | ✔️           | ❌                 	| ❌        |
 > **NOTE:** Checkmark means I  have done it before.
+
 ### Tools I use (or have used before):
-<img src="image/tool/vscode.svg" width="64"> &nbsp;&nbsp;&nbsp; <img src="image/tool/idea.svg" width="64"> &nbsp;&nbsp;&nbsp; <img src="image/tool/rider.svg" width="64"><br>
-<img src="image/tool/clickup.svg" width="64"> &nbsp;&nbsp;&nbsp; <img src="image/tool/trello.svg" width="64"> &nbsp;&nbsp;&nbsp; <img src="https://github.com/favicon.ico" width="64"><br>
-<img src="image/tool/unity.svg" width="64">&nbsp;&nbsp;&nbsp;<img src="image/tool/unreal.svg" width="64"><br>
+<img src="image/tool/vscode.svg" width="64" title="Visual Studio Code"> &nbsp;&nbsp;&nbsp; <img src="image/tool/idea.svg" width="64" title="IntelliJ Idea"> &nbsp;&nbsp;&nbsp; <img src="image/tool/rider.svg" width="64" title="JetBrains Rider"><br>
+<img src="image/tool/clickup.svg" width="64" title="ClickUp"> &nbsp;&nbsp;&nbsp; <img src="image/tool/trello.svg" width="64" title="Trello"> &nbsp;&nbsp;&nbsp; <img src="https://github.com/favicon.ico" width="64" title="Github"><br>
+<img src="image/tool/mysql.svg" width="64" title="MySQL">&nbsp;&nbsp;&nbsp;<img src="image/tool/unity.svg" width="64" title="Unity Engine">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image/tool/unreal.svg" width="64" title="Unreal Engine"><br>
+<img src="image/tool/resolve.svg" width="64" title="DaVinci Resolve">&nbsp;&nbsp;&nbsp;<img src="image/tool/blender.svg" width="64" title="Blender">&nbsp;&nbsp;&nbsp;
+
 ### Spoken languages:
-|🇨🇿|Czech|English|
-|:--:|:----------:|:-----:|
-|Skill|Native|C1|
-- Favorite games: Empyrion, Valorant, Minecraft  
-## Have I interested You? **Contact me!**
-- <img src="image/media/discord.svg" width="16"> <font size=+1,9> Taway#1754 </font>
-- <img src="image/media/outlook.svg" width="16"> mysterioustaway@outlook.com
-- <img src="image/media/instagram.svg" width="16"> [@MysteriousTaway](https://www.instagram.com/mysterioustaway/)
-- <img src="image/media/twitter.svg" width="16"> [@MysteriousTaway](https://twitter.com/MysteriousTaway)
-### Misc information
-- Birthday: 1066039200  
+<table>
+    <tr>
+        <th><img src="image/emoji/czech_flag.svg" width="32"></th>
+        <th>Czech (native)</th>
+    </tr>
+    <tr>
+        <th><img src="image/emoji/uk_flag.svg" width="32"></th>
+        <th>English (C1)</th>
+    </tr>
+</table>
+
+### Have I interested You? **Contact me!**
+- <img src="image/media/discord.svg" width="16" title="Discord"> <font size=+1,9> Taway#1754 </font>
+- <img src="image/media/outlook.svg" width="16" title="E-Mail"> mysterioustaway@outlook.com
+- <img src="image/media/instagram.svg" width="16" title="Instagram"> [@MysteriousTaway](https://www.instagram.com/mysterioustaway/)
+- <img src="image/media/twitter.svg" width="16" title="Twitter"> [@MysteriousTaway](https://twitter.com/MysteriousTaway)
+
+## Misc information
+- Birthday: <time datetime="2003-10-13">
 - 16Personalities: ISTP-T
-- Favorite Color: #d9303b
+- Favorite Color: <font style="color:#d9303b;"> #d9303b </font>
 - Hobbies: Gaming and Programming.  
+- Favorite games: Empyrion, Valorant, Minecraft  
+
 ### Computer specs:
 - CPU: AMD Ryzen 7 5700x  
 - GPU: Gigabyte 3060 EAGLE 12G  
