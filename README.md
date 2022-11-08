@@ -58,7 +58,7 @@ In the future I see myself working as a software engineer. I want to be able to 
 - <img src="image/media/twitter.svg" width="16" title="Twitter"> [@MysteriousTaway](https://twitter.com/MysteriousTaway)
 
 ## Misc information
-- Birthday: <time datetime="2003-10-13">
+- Birthday: 13.10. (DD.MM)
 - 16Personalities: ISTP-T
 - Favorite Color: <font style="color:#d9303b;"> #d9303b </font>
 - Hobbies: Gaming and Programming.  
