@@ -11,12 +11,6 @@ In the future I see myself working as a software engineer. I want to be able to 
 - <img src="image/programming_language/java.svg" width="16"> [Number guessing algorithm AKA the second thing i ever coded in Java](https://github.com/MysteriousTaway/AI-Number-Guesser)
 > **NOTE:** Most of my interesting projects are private on Github.
 
-### Personal information
-- Username: Taway
-- Name: Jakub Jeřábek
-- Age: 19
-- Gender: Male
-
 ### Programming skills (self-rating)
 |              🖥️             	|<img src="image/programming_language/java.svg" width="32"><br>Java|<img src="image/programming_language/csharp.svg" width="36"><br>C#|<img src="image/programming_language/powershell.svg" width="48"><br>Powershell 	| <img src="image/programming_language/golang.svg" width="84"><br>Golang     	|
 |:--------------------------:	    |:---------:	|:---------:	|:-----------------:   |:------:	|
@@ -35,8 +29,8 @@ In the future I see myself working as a software engineer. I want to be able to 
 
 ### Tools I use (or have used before):
 <img src="image/tool/vscode.svg" width="64" title="Visual Studio Code"> &nbsp;&nbsp;&nbsp; <img src="image/tool/idea.svg" width="64" title="IntelliJ Idea"> &nbsp;&nbsp;&nbsp; <img src="image/tool/rider.svg" width="64" title="JetBrains Rider"><br>
-<img src="image/tool/clickup.svg" width="64" title="ClickUp"> &nbsp;&nbsp;&nbsp; <img src="image/tool/trello.svg" width="64" title="Trello"> &nbsp;&nbsp;&nbsp; <img src="https://github.com/favicon.ico" width="64" title="Github"><br>
-<img src="image/tool/mysql.svg" width="64" title="MySQL">&nbsp;&nbsp;&nbsp;<img src="image/tool/unity.svg" width="64" title="Unity Engine">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image/tool/unreal.svg" width="64" title="Unreal Engine"><br>
+<img src="image/tool/clickup.svg" width="64" title="ClickUp"> &nbsp;&nbsp;&nbsp; <img src="image/tool/trello.svg" width="64" title="Trello"> &nbsp;&nbsp;&nbsp; <img src="image/tool/github.svg" width="64" title="Github"><br>
+<img src="image/tool/mysql.svg" width="64" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image/tool/unity.svg" width="64" title="Unity Engine">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="image/tool/unreal.svg" width="64" title="Unreal Engine"><br>
 <img src="image/tool/resolve.svg" width="64" title="DaVinci Resolve">&nbsp;&nbsp;&nbsp;<img src="image/tool/blender.svg" width="64" title="Blender">&nbsp;&nbsp;&nbsp;
 
 ### Spoken languages:
@@ -52,12 +46,17 @@ In the future I see myself working as a software engineer. I want to be able to 
 </table>
 
 ### Have I interested You? **Contact me!**
-- <img src="image/media/discord.svg" width="16" title="Discord"> <font size=+1,9> Taway#1754 </font>
-- <img src="image/media/outlook.svg" width="16" title="E-Mail"> mysterioustaway@outlook.com
-- <img src="image/media/instagram.svg" width="16" title="Instagram"> [@MysteriousTaway](https://www.instagram.com/mysterioustaway/)
-- <img src="image/media/twitter.svg" width="16" title="Twitter"> [@MysteriousTaway](https://twitter.com/MysteriousTaway)
+- <img src="image/media/telegram.svg" width="16" title="Telegram"> [Telegram](https://t.me/mysterioustaway)
+- <img src="image/media/discord.svg" width="16" title="Discord"> Taway#1754
+- <img src="image/media/outlook.svg" width="16" title="E-Mail"> [E-Mail](mailto:mysterioustaway@outlook.com)
+- <img src="image/media/instagram.svg" width="16" title="Instagram"> [Instagram](https://www.instagram.com/mysterioustaway/)
+- <img src="image/media/twitter.svg" width="16" title="Twitter"> [Twitter](https://twitter.com/MysteriousTaway)
 
-## Misc information
+### Personal information
+- Username: Taway
+- Name: Jakub Jeřábek
+- Age: 19
+- Gender: Male
 - Birthday: 13.10. (DD.MM)
 - 16Personalities: ISTP-T
 - Favorite Color: <font style="color:#d9303b;"> #d9303b </font>
@@ -65,10 +64,10 @@ In the future I see myself working as a software engineer. I want to be able to 
 - Favorite games: Empyrion, Valorant, Minecraft  
 
 ### Computer specs:
-- CPU: AMD Ryzen 7 5700x  
-- GPU: Gigabyte 3060 EAGLE 12G  
-- Motherboard: MSI B550 Tomahawk  
-- RAM: Kingston FURY 2x16GB DDR4  
-- SSD: Samsung 980 1TB M.2  
-- HDDs: 1TB Seagate Barracuda, 2TB Seagate Barracuda  
-- PSU: Corsair RM850
+- <img src="image/specs/amd.svg" width="24" title="AMD"> CPU: AMD Ryzen 7 5700x  
+- <img src="image/specs/nvidia.svg" width="24" title="Nvidia"> GPU: Gigabyte 3060 EAGLE 12GB
+- <img src="image/specs/msi.svg" width="24" title="MSI"> Motherboard: MSI B550 Tomahawk  
+- <img src="image/specs/kingston.svg" width="24" title="Kingston"> RAM: Kingston FURY 2x16GB DDR4  
+- <img src="image/specs/samsung.svg" width="24" title="Samsung"> SSD: Samsung 980 1TB M.2  
+- <img src="image/specs/seagate.svg" width="24" title="Seagate"> HDDs: 1TB Seagate Barracuda, 2TB Seagate Barracuda  
+- <img src="image/specs/corsair.svg" width="24" title="Corsair"> PSU: Corsair RM850
