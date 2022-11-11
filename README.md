@@ -1,8 +1,10 @@
 # <img src="image/emoji/about.svg" width="28"> About me
 I'm a typical teenager in many ways. I'm currently a student at a high school for IT, and I'm passionate about learning new programming languages – Java and C# are my current favorites. In my spare time I like to write silly programs that have no real purpose, but help me to learn more about coding. 
 I'm  a very independent person. Even though I'm only 19, I feel like I'm quite mature and I'm very capable of taking care of myself. I know what I want in life. I'm not afraid to go after what I want, and I always make sure that I get what I deserve. 
-In the future I see myself working as a software engineer. I want to be able to work on new and innovative projects that push the boundaries of what's possible. I want to be able to look back on my career and be proud of the things I've accomplished. 
-#### List of projects You might be interested in:
+In the future I see myself working as a software engineer. I want to be able to work on new and innovative projects that push the boundaries of what's possible. I want to be able to look back on my career and be proud of the things I've accomplished.
+### <img src="image/emoji/construction.svg" width="32"> Project that I'm working on right now:
+- <img src="image/programming_language/csharp.svg" width="16"> [FreezeCheck CLI](https://github.com/MysteriousTaway/FreezeCheck_CLI)
+#### :fire: List of projects You might be interested in:
 - <img src="image/programming_language/powershell.svg" width="16"> [Web server](https://github.com/MysteriousTaway/PowershellWebsite)
 - <img src="image/programming_language/powershell.svg" width="16"> [Graduation project: Web server connected to a MySQL database.](https://github.com/MysteriousTaway/ShellPost)
 - <img src="image/programming_language/csharp.svg" width="16"> [CLI IP scanner with multi-threading](https://github.com/MysteriousTaway/IPScanner)
