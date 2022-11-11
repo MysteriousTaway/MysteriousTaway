@@ -19,7 +19,8 @@ In the future I see myself working as a software engineer. I want to be able to 
 | Sorting **algorithms**         	| ✔️         	| ✔️           | ❌                   | ❌      	|
 | Multi-**threading**            	| ✔️         	| ✔️           | ❌                   | ❌      	|
 | **Web** server (back-end)      	| ✔️         	| ❌           | ✔️                   | ✔️      	 |
-| Used **libraries/APIs**        	| ✔️         	| ✔️           | ✔️                   | ❌      	 |
+| Used **libraries**        	    | ✔️         	| ✔️           | ✔️                   | ❌      	 |
+| Used **APIs**        	            | ✔️         	| ✔️           | ✔️                   | ❌      	 |
 | Used with a **MySQL** database 	| ✔️         	| ❌           | ✔️                   | ✔️      	 |
 | Standard **TCP** server        	| ✔️         	| ❌           | ❌                 	| ❌        |
 | **GUI** application            	| ✔️         	| ❌           | ❌                 	| ❌        |
