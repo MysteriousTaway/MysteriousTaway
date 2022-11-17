@@ -17,7 +17,7 @@ In the future I see myself working as a software engineer. I want to be able to 
 |              🖥️             	|<img src="image/programming_language/java.svg" width="32"><br>Java|<img src="image/programming_language/csharp.svg" width="36"><br>C#|<img src="image/programming_language/powershell.svg" width="48"><br>Powershell 	| <img src="image/programming_language/golang.svg" width="84"><br>Golang     	|
 |:--------------------------:	    |:---------:	|:---------:	|:-----------------:   |:------:	|
 | Summary                    	    | Competent 	| Competent 	| Advanced beginner    | Novice 	|
-| Basics **knowledge**           	| ✔️         	| ✔️           | ✔️                   | ✔️        |
+| Basic **knowledge**           	| ✔️         	| ✔️           | ✔️                   | ✔️        |
 | Sorting **algorithms**         	| ✔️         	| ✔️           | ❌                   | ❌      	|
 | Multi-**threading**            	| ✔️         	| ✔️           | ❌                   | ❌      	|
 | **Web** server (back-end)      	| ✔️         	| ❌           | ✔️                   | ✔️      	 |
