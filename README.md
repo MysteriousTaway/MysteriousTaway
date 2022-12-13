@@ -4,11 +4,11 @@ I'm  a very independent person. Even though I'm only 19, I feel like I'm quite m
 In the future I see myself working as a software engineer. I want to be able to work on new and innovative projects that push the boundaries of what's possible. I want to be able to look back on my career and be proud of the things I've accomplished.
 ### <img src="image/emoji/construction.svg" width="32"> Project that I'm working on right now:
 - <img src="image/programming_language/html.svg" width="16"> [Taway.dev](https://github.com/MysteriousTaway/Taway.dev)
-- <img src="image/programming_language/csharp.svg" width="16"> [FreezeCheck CLI](https://github.com/MysteriousTaway/FreezeCheck_CLI)
 #### :fire: List of projects You might be interested in:
 - <img src="image/programming_language/powershell.svg" width="16"> [Web server](https://github.com/MysteriousTaway/PowershellWebsite)
 - <img src="image/programming_language/powershell.svg" width="16"> [Graduation project: Web server connected to a MySQL database.](https://github.com/MysteriousTaway/ShellPost)
 - <img src="image/programming_language/csharp.svg" width="16"> [CLI IP scanner with multi-threading](https://github.com/MysteriousTaway/IPScanner)
+- <img src="image/programming_language/csharp.svg" width="16"> [FreezeCheck CLI](https://github.com/MysteriousTaway/FreezeCheck_CLI)
 - <img src="image/programming_language/java.svg" width="16"> [Unfinished anti-cheat and statistics plugin for SpigotMC](https://github.com/MysteriousTaway/MCL_Overseer)
 - <img src="image/programming_language/java.svg" width="16"> [PaperMC plugin that i made for a classmate](https://github.com/MysteriousTaway/PotionWalker)
 - <img src="image/programming_language/java.svg" width="16"> [Number guessing algorithm AKA the second thing i ever coded in Java](https://github.com/MysteriousTaway/AI-Number-Guesser)
