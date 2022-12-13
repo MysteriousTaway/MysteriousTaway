@@ -3,6 +3,7 @@ I'm a typical teenager in many ways. I'm currently a student at a high school fo
 I'm  a very independent person. Even though I'm only 19, I feel like I'm quite mature and I'm very capable of taking care of myself. I know what I want in life. I'm not afraid to go after what I want, and I always make sure that I get what I deserve. 
 In the future I see myself working as a software engineer. I want to be able to work on new and innovative projects that push the boundaries of what's possible. I want to be able to look back on my career and be proud of the things I've accomplished.
 ### <img src="image/emoji/construction.svg" width="32"> Project that I'm working on right now:
+- <img src="image/programming_language/html.svg" width="16"> [Taway.dev](https://github.com/MysteriousTaway/Taway.dev)
 - <img src="image/programming_language/csharp.svg" width="16"> [FreezeCheck CLI](https://github.com/MysteriousTaway/FreezeCheck_CLI)
 #### :fire: List of projects You might be interested in:
 - <img src="image/programming_language/powershell.svg" width="16"> [Web server](https://github.com/MysteriousTaway/PowershellWebsite)
