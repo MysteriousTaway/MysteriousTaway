@@ -7,6 +7,7 @@ In the future I see myself working as a software engineer. I want to be able to 
 #### :fire: List of projects You might be interested in:
 - <img src="image/programming_language/powershell.svg" width="16"> [Web server](https://github.com/MysteriousTaway/PowershellWebsite)
 - <img src="image/programming_language/powershell.svg" width="16"> [Graduation project: Web server connected to a MySQL database.](https://github.com/MysteriousTaway/ShellPost)
+- <img src="image/programming_language/csharp.svg" width="16"> [CLI Runs commands from CSV files and sends them to GPT3](https://github.com/MysteriousTaway/GPTCSV)
 - <img src="image/programming_language/csharp.svg" width="16"> [CLI IP scanner with multi-threading](https://github.com/MysteriousTaway/IPScanner)
 - <img src="image/programming_language/csharp.svg" width="16"> [FreezeCheck CLI](https://github.com/MysteriousTaway/FreezeCheck_CLI)
 - <img src="image/programming_language/java.svg" width="16"> [Unfinished anti-cheat and statistics plugin for SpigotMC](https://github.com/MysteriousTaway/MCL_Overseer)
